@@ -1,0 +1,13 @@
+C:\Users\VietCongSoldier\source\repos\bai 2 BTH 1 lap trinh huong doi tuong\bai 2 BTH 1 lap trinh huong doi tuong\bin\Debug\netcoreapp3.1\bai 2 BTH 1 lap trinh huong doi tuong.exe
+C:\Users\VietCongSoldier\source\repos\bai 2 BTH 1 lap trinh huong doi tuong\bai 2 BTH 1 lap trinh huong doi tuong\bin\Debug\netcoreapp3.1\bai 2 BTH 1 lap trinh huong doi tuong.deps.json
+C:\Users\VietCongSoldier\source\repos\bai 2 BTH 1 lap trinh huong doi tuong\bai 2 BTH 1 lap trinh huong doi tuong\bin\Debug\netcoreapp3.1\bai 2 BTH 1 lap trinh huong doi tuong.runtimeconfig.json
+C:\Users\VietCongSoldier\source\repos\bai 2 BTH 1 lap trinh huong doi tuong\bai 2 BTH 1 lap trinh huong doi tuong\bin\Debug\netcoreapp3.1\bai 2 BTH 1 lap trinh huong doi tuong.runtimeconfig.dev.json
+C:\Users\VietCongSoldier\source\repos\bai 2 BTH 1 lap trinh huong doi tuong\bai 2 BTH 1 lap trinh huong doi tuong\bin\Debug\netcoreapp3.1\bai 2 BTH 1 lap trinh huong doi tuong.dll
+C:\Users\VietCongSoldier\source\repos\bai 2 BTH 1 lap trinh huong doi tuong\bai 2 BTH 1 lap trinh huong doi tuong\bin\Debug\netcoreapp3.1\bai 2 BTH 1 lap trinh huong doi tuong.pdb
+C:\Users\VietCongSoldier\source\repos\bai 2 BTH 1 lap trinh huong doi tuong\bai 2 BTH 1 lap trinh huong doi tuong\obj\Debug\netcoreapp3.1\bai 2 BTH 1 lap trinh huong doi tuong.csprojAssemblyReference.cache
+C:\Users\VietCongSoldier\source\repos\bai 2 BTH 1 lap trinh huong doi tuong\bai 2 BTH 1 lap trinh huong doi tuong\obj\Debug\netcoreapp3.1\bai 2 BTH 1 lap trinh huong doi tuong.AssemblyInfoInputs.cache
+C:\Users\VietCongSoldier\source\repos\bai 2 BTH 1 lap trinh huong doi tuong\bai 2 BTH 1 lap trinh huong doi tuong\obj\Debug\netcoreapp3.1\bai 2 BTH 1 lap trinh huong doi tuong.AssemblyInfo.cs
+C:\Users\VietCongSoldier\source\repos\bai 2 BTH 1 lap trinh huong doi tuong\bai 2 BTH 1 lap trinh huong doi tuong\obj\Debug\netcoreapp3.1\bai 2 BTH 1 lap trinh huong doi tuong.csproj.CoreCompileInputs.cache
+C:\Users\VietCongSoldier\source\repos\bai 2 BTH 1 lap trinh huong doi tuong\bai 2 BTH 1 lap trinh huong doi tuong\obj\Debug\netcoreapp3.1\bai 2 BTH 1 lap trinh huong doi tuong.dll
+C:\Users\VietCongSoldier\source\repos\bai 2 BTH 1 lap trinh huong doi tuong\bai 2 BTH 1 lap trinh huong doi tuong\obj\Debug\netcoreapp3.1\bai 2 BTH 1 lap trinh huong doi tuong.pdb
+C:\Users\VietCongSoldier\source\repos\bai 2 BTH 1 lap trinh huong doi tuong\bai 2 BTH 1 lap trinh huong doi tuong\obj\Debug\netcoreapp3.1\bai 2 BTH 1 lap trinh huong doi tuong.genruntimeconfig.cache
